@@ -46,27 +46,37 @@ Linux consists of three main components:
 
 # Some of the imp commands of systemd as follow
 - Check service status:-
+
     systemctl status ssh
 - Start a service:-
+
     Start a service
-- Stop a service
+- Stop a service:-
+
     sudo systemctl stop nginx
-- Restart a service
+- Restart a service:-
+
     sudo systemctl restart nginx
-- Enable service at boot
+- Enable service at boot:-
+
     sudo systemctl enable nginx
-- Disable service
+- Disable service:-
+
     sudo systemctl disable nginx
-- List running services
+- List running services:-
+
     systemctl list-units --type=service
 
 # journalctl
 Journalctl displays logs collected by systemd.
 - View all logs:-
+
       journalctl
 - Latest logs:-
+
       journalctl -xe
 - Logs for a specific service:-
+
     journalctl -u nginx
 
 
