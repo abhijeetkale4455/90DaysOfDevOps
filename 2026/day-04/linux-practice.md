@@ -20,18 +20,25 @@
       ![alt text](image-2.png)
     
 
-##  Service Checks
+##  Systemd Coomands
 
-- 1. Check SSH Service Status
+-  Check SSH Service Status
   Syntax :- 
         systemctl status sshd
 
     ![alt text](image-3.png)
 
+-  systemctl list-units
 
-## Log Checks
+      ![alt text](image-4.png)
 
-- 1. Check SSH Logs
+- journalctl
 
-  journalctl -u sshd -n 10
+   ![alt text](image-5.png)
+
+- journalctl -u docker |tail -n 15
+
+      ![alt text](image-6.png)
+
+
 
