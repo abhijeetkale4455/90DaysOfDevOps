@@ -34,5 +34,5 @@ var/log stores log files used for monitoring,debugging and troubleshooting syste
 - The /usr/bin directory stores most user-level executable programs and utilities installed on the system.
 # 9 /opt
 - The /opt directory is used for optional or thied-party software packages thet are not part of the default Linux installation.
-- ex:- Oracle Database, Tomcat.
+- ex:- Oracle Database, Tomscat.
   ![alt text](image-6.png) 
