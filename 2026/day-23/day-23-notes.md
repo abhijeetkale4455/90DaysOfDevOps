@@ -135,7 +135,7 @@ git pull downloads the changes and integrates them into your current branch.
 
   
     </> Markdown
-Fork = create your own copy of someone else's repository on GitHub.
+# Fork = create your own copy of someone else's repository on GitHub.
 
        ![alt text](image-17.png)
 
