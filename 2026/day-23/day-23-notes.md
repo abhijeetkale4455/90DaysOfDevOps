@@ -133,7 +133,7 @@ git pull downloads the changes and integrates them into your current branch.
 
       * You normally clone a repository when you have permission to work with it.
 
-  * Fork
+  
     </> Markdown
 Fork = create your own copy of someone else's repository on GitHub.
 
