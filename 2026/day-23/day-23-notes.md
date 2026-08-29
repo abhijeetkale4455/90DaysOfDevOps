@@ -108,6 +108,7 @@
 
     
 # Difference between git fetch and git pull
+
   * git fetch and git pull. They are both used to get changes from a remote repository (GitHub), but they work differently.
   
   1. git fetch
@@ -124,7 +125,7 @@ git pull downloads the changes and integrates them into your current branch.
 ## git clone vs fork
 
   * git clone
-    </> Markdown
+    
   Clone = copy a repository from GitHub to your local computer.
     </> Markdown 
       ![alt text](image-15.png)
@@ -134,7 +135,7 @@ git pull downloads the changes and integrates them into your current branch.
       * You normally clone a repository when you have permission to work with it.
 
   
-    </> Markdown
+    
 # Fork = create your own copy of someone else's repository on GitHub.
 </> Markdown
        ![alt text](image-17.png)
