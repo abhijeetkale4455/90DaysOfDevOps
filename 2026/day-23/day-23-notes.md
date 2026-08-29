@@ -42,13 +42,12 @@
 * commit on feature-1 that does not exit on main.
 
 * switch back to main - verify that the commit from feature-1 is not there.
-
+        </> Markdown
          ![alt text](image-4.png)
-
+        </> Markdown
          ![alt text](image-5.png)
 
 # Delete a branch you no longer need.
-
 
      ![alt text](image-6.png)
 
@@ -101,7 +100,7 @@
    * create a new file directly on GitHub
        
        ![alt text](image-13.png)
-
+    </> Markdown
     * push that file into your local 
 
 
@@ -125,17 +124,17 @@ git pull downloads the changes and integrates them into your current branch.
 ## git clone vs fork
 
   * git clone
-
+    </> Markdown
   Clone = copy a repository from GitHub to your local computer.
-     
+    </> Markdown 
       ![alt text](image-15.png)
-
+    </> Markdown
       ![alt text](image-16.png)
 
-     * You normally clone a repository when you have permission to work with it.
+      * You normally clone a repository when you have permission to work with it.
 
   * Fork
-
+    </> Markdown
 Fork = create your own copy of someone else's repository on GitHub.
 
        ![alt text](image-17.png)
