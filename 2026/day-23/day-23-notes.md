@@ -21,7 +21,9 @@
 ## Branching Commands
 
 * List all Branches
+
    ![alt text](image.png)
+
 - The * means you are currently on that branch.
 
 * Create a new branch called feature-1 & switch to branch
@@ -29,6 +31,7 @@
     ![alt text](image-1.png)
 
 * Create a new branch and switch to it in a single command — call it feature-2
+
 
       ![alt text](image-2.png)
 
@@ -41,9 +44,11 @@
 * switch back to main - verify that the commit from feature-1 is not there.
 
          ![alt text](image-4.png)
+
          ![alt text](image-5.png)
 
 # Delete a branch you no longer need.
+
 
      ![alt text](image-6.png)
 
@@ -99,6 +104,7 @@
 
     * push that file into your local 
 
+
         ![alt text](image-14.png)
 
     
@@ -123,6 +129,7 @@ git pull downloads the changes and integrates them into your current branch.
   Clone = copy a repository from GitHub to your local computer.
      
       ![alt text](image-15.png)
+
       ![alt text](image-16.png)
 
      * You normally clone a repository when you have permission to work with it.
@@ -132,6 +139,7 @@ git pull downloads the changes and integrates them into your current branch.
 Fork = create your own copy of someone else's repository on GitHub.
 
        ![alt text](image-17.png)
+
 
        ![alt text](image-18.png)
 
