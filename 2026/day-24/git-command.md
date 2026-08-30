@@ -7,11 +7,11 @@
   
     ![alt text](image.png)
 
-* created another branch feature-signup, add commits to it — but also add a commit to main before merging
+* created another branch feature-login_1, add commits to it — but also add a commit to main before merging
 
-* Merge feature-signup into main
+* Merge feature-login_1 into main
 
-* This time merge commit happens beacause main branch have commit history after creation of branch feature-signup
+* This time merge commit happens beacause main branch have commit history after creation of branch feature-login_1
 
      ![alt text](image-1.png)
     
