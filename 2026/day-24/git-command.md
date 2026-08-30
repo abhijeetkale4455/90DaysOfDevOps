@@ -15,3 +15,14 @@
 
      ![alt text](image-1.png)
     
+* fast-forward merge
+
+- if there is no any new commit on main branch after creation of branch feature-login_1 It will do a fast-forward merge & there is no commmit history for merge
+
+* merge commit
+
+- If main branch have commit history after creation of branch it will do a merge commit
+
+* merge conflict
+
+- if same file has two version in diff branches & if we are trying to merge then resolve conflict manually
